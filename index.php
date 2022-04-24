@@ -1,2 +1,2 @@
 <?php 
-echo "hello from dev";
+echo "hello from dev merge success";
